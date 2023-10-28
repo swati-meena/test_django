@@ -129,14 +129,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+#  this change is happens for checking the changes in the swati update beranch
